@@ -3,10 +3,7 @@
 <br>
 
 ### 1. Walmart Sales Analysis:
-You have been given a data set to analyse and answer the following questions:
-Candidate can answer the questions by using any technical tool (Excel, Sheets,
-Python, etc..)
- A. Analyze the performance of sales and revenue at the city and branch level 
+A. Analyze the performance of sales and revenue at the city and branch level 
 B. What is the average price of an item sold at each branch of the city 
 C. Analyze the performance of sales and revenue, Month over Month across the
 Product line, Gender, and Payment Method, and identify the focus areas to
