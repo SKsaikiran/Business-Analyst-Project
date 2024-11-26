@@ -1,6 +1,5 @@
 # Business Analyst Project
 ## Problem Statment
-<br>
 
 ### 1. Walmart Sales Analysis:
 A. Analyze the performance of sales and revenue at the city and branch level 
